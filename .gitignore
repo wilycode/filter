@@ -1,0 +1,10 @@
+/vendor/
+/composer.lock
+/.phpunit.cache/
+/.phpunit.result.cache
+/.idea/
+.DS_Store
+
+# macOS metadata
+._*
+__MACOSX/
